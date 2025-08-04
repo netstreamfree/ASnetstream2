@@ -1,0 +1,8 @@
+{
+    "category_m3u_url": "https://iptv-org.github.io/iptv/index.category.m3u",
+    "country_m3u_url": "https://iptv-org.github.io/iptv/index.country.m3u",
+    "all_channels_m3u_url": "https://raw.githubusercontent.com/netstreamfree/netstream/main/channels.m3u",
+    "trending_m3u_url": "https://raw.githubusercontent.com/netstreamfree/netstream/main/trending.m3u",
+    "last_updated": "2024-01-15T10:30:00Z",
+    "version": "1.0"
+}
